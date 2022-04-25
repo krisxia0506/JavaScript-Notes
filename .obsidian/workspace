@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "51896531a997ffc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e095b62af73178",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "725df74565c43557",
+    "type": "split",
+    "children": [
+      {
+        "id": "306d689296b04ded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eab5d6639223a10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "492096031a04a2b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fef71661dd72c596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1030117a803edb93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18ddd0fbd4c51a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "583e2169f0b6d454",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6862f78cafe2f3f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41e095b62af73178",
+  "lastOpenFiles": [
+    "变量.md",
+    "变量提升.md",
+    "对象.md",
+    "改变内容.md",
+    "函数.md",
+    "输出.md",
+    "数据类型.md",
+    "Const作用域.md",
+    "let作用域.md",
+    "9对象.md"
+  ]
+}
