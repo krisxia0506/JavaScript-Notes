@@ -13,6 +13,12 @@ date: 2022-04-24 14:05
 # 改变 HTML 内容
 `getElementById()` 是多个 JavaScript HTML 方法之一。
 
+`getElementByClassName()`
+
+`getElementByName()`
+
+`getElementsByTagName("a")[0]`
+
 本例使用该方法来“查找” id="demo" 的 HTML 元素，并把元素内容（`innerHTML`）更改为 "Hello JavaScript"：
 ```html
 <!DOCTYPE html>
@@ -50,7 +56,26 @@ function myFunction() {
 </html>
 ```
 
+改变了其自身元素的内容
+
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>JavaScript 事件</h1>
+
+<button onclick="this.innerHTML=Date()">时间是？</button>
+
+</body>
+</html>
+
+```
+
+
+
 # 改变 HTML 属性
+
 ```html
 <!DOCTYPE html>
 <html>

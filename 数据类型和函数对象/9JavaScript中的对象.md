@@ -35,8 +35,6 @@ var person = {
 在上面的例子中，`this` 指的是“拥有” fullName 函数的 *person 对象*。
 换言之，`this.firstName` 的意思是 *this 对象*的 firstName 属性。
 
-
-
 # 访问对象属性
 
 对象名.属性名
@@ -46,8 +44,6 @@ person.lastName;
 person["lastName"];
 ```
 
-
-
 # 访问对象方法
 
 对象名.方法名()
@@ -55,6 +51,10 @@ person["lastName"];
 ```js
 name = person.fullName();
 ```
+
+如果*不使用 ()* 访问 fullName 方法，则将返回*函数的内容*
+
+
 
 
 
