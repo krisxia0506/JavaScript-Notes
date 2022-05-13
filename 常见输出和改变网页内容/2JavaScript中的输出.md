@@ -96,6 +96,7 @@ window.alert(5 + 6);
 ```
 
 ## 使用 console.log()
+
 ```html
 <!DOCTYPE html>
 <html>
